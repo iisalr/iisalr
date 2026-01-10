@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Isa :)
 
-<!--
-**iisalr/iisalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineering graduate based in Costa Rica
 
-Here are some ideas to get you started:
+I like building web apps, learning new technologies, and figuring out how things work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea sounds interesting, I’ll probably try to code it just to see if I can.
+
+You’ll find some pinned projects here — mostly web systems developed through academic and personal work.
+
+Currently open to junior software engineering opportunities where I can grow, learn, and build meaningful software.
+
+Fun facts:
+- The gym keeps me sane🏋️‍♀️
+- Always making playlists
+- I love building things
+- Always curious, always learning
