@@ -10,8 +10,4 @@ You’ll find some pinned projects here — mostly web systems developed through
 
 Currently open to junior software engineering opportunities where I can grow, learn, and build meaningful software.
 
-Fun facts:
-- The gym keeps me sane🏋️‍♀️
-- Always making playlists
-- I love building things
-- Always curious, always learning
+
